@@ -1,0 +1,4 @@
+module CNIOOpenSSL {
+    umbrella "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/swift-nio-ssl.git-5718651788779742539/Sources/CNIOOpenSSL/include"
+    export *
+}
