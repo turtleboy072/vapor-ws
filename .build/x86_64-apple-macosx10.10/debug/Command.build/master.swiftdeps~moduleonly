@@ -1,0 +1,20 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "4198003ea6a4b36efa13a3fee9cbb687"
+build_time: [1548070247, 174975000]
+inputs:
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/console.git-8669534691655913401/Sources/Command/Base/CommandOption.swift": [1548070196, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/console.git-8669534691655913401/Sources/Command/Base/CommandRunnable.swift": [1548070196, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/console.git-8669534691655913401/Sources/Command/Command/Command.swift": [1548070196, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/console.git-8669534691655913401/Sources/Command/Command/CommandArgument.swift": [1548070196, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/console.git-8669534691655913401/Sources/Command/Config/CommandConfig.swift": [1548070196, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/console.git-8669534691655913401/Sources/Command/Config/Commands.swift": [1548070196, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/console.git-8669534691655913401/Sources/Command/Group/BasicCommandGroup.swift": [1548070196, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/console.git-8669534691655913401/Sources/Command/Group/CommandGroup.swift": [1548070196, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/console.git-8669534691655913401/Sources/Command/Run/CommandContext.swift": [1548070196, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/console.git-8669534691655913401/Sources/Command/Run/CommandInput.swift": [1548070196, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/console.git-8669534691655913401/Sources/Command/Run/Console+Run.swift": [1548070196, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/console.git-8669534691655913401/Sources/Command/Run/Output+Autocomplete.swift": [1548070196, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/console.git-8669534691655913401/Sources/Command/Run/Output+Help.swift": [1548070196, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/console.git-8669534691655913401/Sources/Command/Utilities/CommandError.swift": [1548070196, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/console.git-8669534691655913401/Sources/Command/Utilities/Exports.swift": [1548070196, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/console.git-8669534691655913401/Sources/Command/Utilities/Utilities.swift": [1548070196, 0]

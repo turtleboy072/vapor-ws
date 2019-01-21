@@ -1,0 +1,14 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "f05e272d90a54128e182902f31799e13"
+build_time: [1548070253, 871967000]
+inputs:
+  "/Users/jimallan/Downloads/starter/location-track-server/Sources/App/Location.swift": [1533305591, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/Sources/App/LockedDictionary.swift": [1533305591, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/Sources/App/SessionManager.swift": [1548065153, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/Sources/App/TrackingSession.swift": [1533305591, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/Sources/App/WebSocket+Extensions.swift": [1548064887, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/Sources/App/Words.swift": [1533305591, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/Sources/App/boot.swift": [1533305591, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/Sources/App/configure.swift": [1533305591, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/Sources/App/routes.swift": [1548067844, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/Sources/App/websockets.swift": [1548068628, 0]

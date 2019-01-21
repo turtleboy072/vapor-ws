@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "14fa43d04e0357ddafe4123066af5616"
+build_time: [1548070218, 436911000]
+inputs:
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/swift-nio.git-6105345694714423636/Sources/NIOConcurrencyHelpers/atomics.swift": [1548070190, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/swift-nio.git-6105345694714423636/Sources/NIOConcurrencyHelpers/lock.swift": [1548070190, 0]

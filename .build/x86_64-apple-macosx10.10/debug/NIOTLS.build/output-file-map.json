@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/NIOTLS.build/master.swiftdeps"
+  },
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/swift-nio.git-6105345694714423636/Sources/NIOTLS/ApplicationProtocolNegotiationHandler.swift": {
+    "dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/NIOTLS.build/ApplicationProtocolNegotiationHandler.d",
+    "object": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/NIOTLS.build/ApplicationProtocolNegotiationHandler.swift.o",
+    "swiftmodule": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/NIOTLS.build/ApplicationProtocolNegotiationHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/NIOTLS.build/ApplicationProtocolNegotiationHandler.swiftdeps"
+  },
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/swift-nio.git-6105345694714423636/Sources/NIOTLS/SNIHandler.swift": {
+    "dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/NIOTLS.build/SNIHandler.d",
+    "object": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/NIOTLS.build/SNIHandler.swift.o",
+    "swiftmodule": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/NIOTLS.build/SNIHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/NIOTLS.build/SNIHandler.swiftdeps"
+  },
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/swift-nio.git-6105345694714423636/Sources/NIOTLS/TLSEvents.swift": {
+    "dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/NIOTLS.build/TLSEvents.d",
+    "object": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/NIOTLS.build/TLSEvents.swift.o",
+    "swiftmodule": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/NIOTLS.build/TLSEvents~partial.swiftmodule",
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/NIOTLS.build/TLSEvents.swiftdeps"
+  }
+}

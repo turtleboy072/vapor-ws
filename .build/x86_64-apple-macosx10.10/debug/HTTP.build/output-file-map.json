@@ -1,0 +1,143 @@
+{
+  "": {
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/master.swiftdeps"
+  },
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/http.git--8601818815503934775/Sources/HTTP/Body/HTTPBody.swift": {
+    "dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPBody.d",
+    "object": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/Body/HTTPBody.swift.o",
+    "swiftmodule": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPBody~partial.swiftmodule",
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPBody.swiftdeps"
+  },
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/http.git--8601818815503934775/Sources/HTTP/Body/HTTPBodyRepresentable.swift": {
+    "dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPBodyRepresentable.d",
+    "object": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/Body/HTTPBodyRepresentable.swift.o",
+    "swiftmodule": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPBodyRepresentable~partial.swiftmodule",
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPBodyRepresentable.swiftdeps"
+  },
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/http.git--8601818815503934775/Sources/HTTP/Body/HTTPBodyStorage.swift": {
+    "dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPBodyStorage.d",
+    "object": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/Body/HTTPBodyStorage.swift.o",
+    "swiftmodule": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPBodyStorage~partial.swiftmodule",
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPBodyStorage.swiftdeps"
+  },
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/http.git--8601818815503934775/Sources/HTTP/Body/HTTPChunkedStream.swift": {
+    "dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPChunkedStream.d",
+    "object": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/Body/HTTPChunkedStream.swift.o",
+    "swiftmodule": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPChunkedStream~partial.swiftmodule",
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPChunkedStream.swiftdeps"
+  },
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/http.git--8601818815503934775/Sources/HTTP/Codable/HTTPMessageCoder.swift": {
+    "dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPMessageCoder.d",
+    "object": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/Codable/HTTPMessageCoder.swift.o",
+    "swiftmodule": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPMessageCoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPMessageCoder.swiftdeps"
+  },
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/http.git--8601818815503934775/Sources/HTTP/Cookies/HTTPCookieValue.swift": {
+    "dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPCookieValue.d",
+    "object": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/Cookies/HTTPCookieValue.swift.o",
+    "swiftmodule": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPCookieValue~partial.swiftmodule",
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPCookieValue.swiftdeps"
+  },
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/http.git--8601818815503934775/Sources/HTTP/Cookies/HTTPCookies.swift": {
+    "dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPCookies.d",
+    "object": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/Cookies/HTTPCookies.swift.o",
+    "swiftmodule": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPCookies~partial.swiftmodule",
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPCookies.swiftdeps"
+  },
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/http.git--8601818815503934775/Sources/HTTP/Exports.swift": {
+    "dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/Exports.d",
+    "object": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/Exports.swift.o",
+    "swiftmodule": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/Exports.swiftdeps"
+  },
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/http.git--8601818815503934775/Sources/HTTP/Message/Forwarded.swift": {
+    "dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/Forwarded.d",
+    "object": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/Message/Forwarded.swift.o",
+    "swiftmodule": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/Forwarded~partial.swiftmodule",
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/Forwarded.swiftdeps"
+  },
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/http.git--8601818815503934775/Sources/HTTP/Message/HTTPHeaderName.swift": {
+    "dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPHeaderName.d",
+    "object": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/Message/HTTPHeaderName.swift.o",
+    "swiftmodule": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPHeaderName~partial.swiftmodule",
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPHeaderName.swiftdeps"
+  },
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/http.git--8601818815503934775/Sources/HTTP/Message/HTTPHeaders.swift": {
+    "dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPHeaders.d",
+    "object": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/Message/HTTPHeaders.swift.o",
+    "swiftmodule": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPHeaders~partial.swiftmodule",
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPHeaders.swiftdeps"
+  },
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/http.git--8601818815503934775/Sources/HTTP/Message/HTTPMessage.swift": {
+    "dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPMessage.d",
+    "object": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/Message/HTTPMessage.swift.o",
+    "swiftmodule": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPMessage~partial.swiftmodule",
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPMessage.swiftdeps"
+  },
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/http.git--8601818815503934775/Sources/HTTP/Message/HTTPRequest.swift": {
+    "dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPRequest.d",
+    "object": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/Message/HTTPRequest.swift.o",
+    "swiftmodule": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPRequest~partial.swiftmodule",
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPRequest.swiftdeps"
+  },
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/http.git--8601818815503934775/Sources/HTTP/Message/HTTPResponse.swift": {
+    "dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPResponse.d",
+    "object": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/Message/HTTPResponse.swift.o",
+    "swiftmodule": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPResponse~partial.swiftmodule",
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPResponse.swiftdeps"
+  },
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/http.git--8601818815503934775/Sources/HTTP/Message/MediaTypePreference.swift": {
+    "dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/MediaTypePreference.d",
+    "object": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/Message/MediaTypePreference.swift.o",
+    "swiftmodule": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/MediaTypePreference~partial.swiftmodule",
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/MediaTypePreference.swiftdeps"
+  },
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/http.git--8601818815503934775/Sources/HTTP/Message/URL+HTTP.swift": {
+    "dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/URL+HTTP.d",
+    "object": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/Message/URL+HTTP.swift.o",
+    "swiftmodule": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/URL+HTTP~partial.swiftmodule",
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/URL+HTTP.swiftdeps"
+  },
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/http.git--8601818815503934775/Sources/HTTP/Responder/HTTPClient.swift": {
+    "dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPClient.d",
+    "object": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/Responder/HTTPClient.swift.o",
+    "swiftmodule": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPClient~partial.swiftmodule",
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPClient.swiftdeps"
+  },
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/http.git--8601818815503934775/Sources/HTTP/Responder/HTTPClientProtocolUpgrader.swift": {
+    "dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPClientProtocolUpgrader.d",
+    "object": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/Responder/HTTPClientProtocolUpgrader.swift.o",
+    "swiftmodule": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPClientProtocolUpgrader~partial.swiftmodule",
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPClientProtocolUpgrader.swiftdeps"
+  },
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/http.git--8601818815503934775/Sources/HTTP/Responder/HTTPScheme.swift": {
+    "dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPScheme.d",
+    "object": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/Responder/HTTPScheme.swift.o",
+    "swiftmodule": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPScheme~partial.swiftmodule",
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPScheme.swiftdeps"
+  },
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/http.git--8601818815503934775/Sources/HTTP/Responder/HTTPServer.swift": {
+    "dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPServer.d",
+    "object": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/Responder/HTTPServer.swift.o",
+    "swiftmodule": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPServer~partial.swiftmodule",
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPServer.swiftdeps"
+  },
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/http.git--8601818815503934775/Sources/HTTP/Responder/HTTPServerResponder.swift": {
+    "dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPServerResponder.d",
+    "object": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/Responder/HTTPServerResponder.swift.o",
+    "swiftmodule": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPServerResponder~partial.swiftmodule",
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPServerResponder.swiftdeps"
+  },
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/http.git--8601818815503934775/Sources/HTTP/Utilities/HTTPError.swift": {
+    "dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPError.d",
+    "object": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/Utilities/HTTPError.swift.o",
+    "swiftmodule": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPError~partial.swiftmodule",
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/HTTPError.swiftdeps"
+  },
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/http.git--8601818815503934775/Sources/HTTP/Utilities/RFC1123.swift": {
+    "dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/RFC1123.d",
+    "object": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/Utilities/RFC1123.swift.o",
+    "swiftmodule": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/RFC1123~partial.swiftmodule",
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/HTTP.build/RFC1123.swiftdeps"
+  }
+}

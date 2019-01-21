@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/COperatingSystem.build/master.swiftdeps"
+  },
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/core.git--2280532085018929318/Sources/COperatingSystem/libc.swift": {
+    "dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/COperatingSystem.build/libc.d",
+    "object": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/COperatingSystem.build/libc.swift.o",
+    "swiftmodule": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/COperatingSystem.build/libc~partial.swiftmodule",
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/COperatingSystem.build/libc.swiftdeps"
+  }
+}

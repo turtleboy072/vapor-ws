@@ -1,0 +1,17 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "fef34dc01cdb9a2126421aefce4e3879"
+build_time: [1548070228, 189557000]
+inputs:
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/swift-nio-ssl.git--1045596292306961330/Sources/NIOOpenSSL/IdentityVerification.swift": [1548070191, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/swift-nio-ssl.git--1045596292306961330/Sources/NIOOpenSSL/OpenSSLClientHandler.swift": [1548070191, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/swift-nio-ssl.git--1045596292306961330/Sources/NIOOpenSSL/OpenSSLHandler.swift": [1548070191, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/swift-nio-ssl.git--1045596292306961330/Sources/NIOOpenSSL/OpenSSLServerHandler.swift": [1548070191, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/swift-nio-ssl.git--1045596292306961330/Sources/NIOOpenSSL/PosixPort.swift": [1548070191, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/swift-nio-ssl.git--1045596292306961330/Sources/NIOOpenSSL/SSLCertificate.swift": [1548070191, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/swift-nio-ssl.git--1045596292306961330/Sources/NIOOpenSSL/SSLConnection.swift": [1548070191, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/swift-nio-ssl.git--1045596292306961330/Sources/NIOOpenSSL/SSLContext.swift": [1548070191, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/swift-nio-ssl.git--1045596292306961330/Sources/NIOOpenSSL/SSLErrors.swift": [1548070191, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/swift-nio-ssl.git--1045596292306961330/Sources/NIOOpenSSL/SSLInit.swift": [1548070191, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/swift-nio-ssl.git--1045596292306961330/Sources/NIOOpenSSL/SSLPKCS12Bundle.swift": [1548070191, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/swift-nio-ssl.git--1045596292306961330/Sources/NIOOpenSSL/SSLPrivateKey.swift": [1548070191, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/swift-nio-ssl.git--1045596292306961330/Sources/NIOOpenSSL/TLSConfiguration.swift": [1548070191, 0]

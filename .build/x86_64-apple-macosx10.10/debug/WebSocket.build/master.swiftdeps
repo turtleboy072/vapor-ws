@@ -1,0 +1,9 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "6d111db85768481daee35b36621f9a16"
+build_time: [1548070245, 821786000]
+inputs:
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/websocket.git--2607226355509711029/Sources/WebSocket/Exports.swift": [1548070193, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/websocket.git--2607226355509711029/Sources/WebSocket/WebSocket+Client.swift": [1548070193, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/websocket.git--2607226355509711029/Sources/WebSocket/WebSocket+Server.swift": [1548070193, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/websocket.git--2607226355509711029/Sources/WebSocket/WebSocket.swift": [1548070193, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/websocket.git--2607226355509711029/Sources/WebSocket/WebSocketHandler.swift": [1548070193, 0]

@@ -1,0 +1,12 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "ec589abcf3ea6939ad19cb438f166509"
+build_time: [1548070230, 632350000]
+inputs:
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/swift-nio.git-6105345694714423636/Sources/NIOWebSocket/Base64.swift": [1548070190, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/swift-nio.git-6105345694714423636/Sources/NIOWebSocket/SHA1.swift": [1548070190, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/swift-nio.git-6105345694714423636/Sources/NIOWebSocket/WebSocketErrorCodes.swift": [1548070190, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/swift-nio.git-6105345694714423636/Sources/NIOWebSocket/WebSocketFrame.swift": [1548070190, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/swift-nio.git-6105345694714423636/Sources/NIOWebSocket/WebSocketFrameDecoder.swift": [1548070190, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/swift-nio.git-6105345694714423636/Sources/NIOWebSocket/WebSocketFrameEncoder.swift": [1548070190, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/swift-nio.git-6105345694714423636/Sources/NIOWebSocket/WebSocketOpcode.swift": [1548070190, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/swift-nio.git-6105345694714423636/Sources/NIOWebSocket/WebSocketUpgrader.swift": [1548070190, 0]

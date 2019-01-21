@@ -1,0 +1,16 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "b4cb1b360c6ac0e223d7909a9b9dbec7"
+build_time: [1548070225, 288932000]
+inputs:
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/core.git--2280532085018929318/Sources/Bits/BitsError.swift": [1548070190, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/core.git--2280532085018929318/Sources/Bits/Byte+Alphabet.swift": [1548070190, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/core.git--2280532085018929318/Sources/Bits/Byte+Control.swift": [1548070190, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/core.git--2280532085018929318/Sources/Bits/Byte+Digit.swift": [1548070190, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/core.git--2280532085018929318/Sources/Bits/ByteBuffer+binaryFloatingPointOperations.swift": [1548070190, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/core.git--2280532085018929318/Sources/Bits/ByteBuffer+peek.swift": [1548070190, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/core.git--2280532085018929318/Sources/Bits/ByteBuffer+require.swift": [1548070190, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/core.git--2280532085018929318/Sources/Bits/ByteBuffer+string.swift": [1548070190, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/core.git--2280532085018929318/Sources/Bits/Bytes.swift": [1548070190, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/core.git--2280532085018929318/Sources/Bits/Data+Bytes.swift": [1548070190, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/core.git--2280532085018929318/Sources/Bits/Data+Strings.swift": [1548070190, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/core.git--2280532085018929318/Sources/Bits/Deprecated.swift": [1548070190, 0]

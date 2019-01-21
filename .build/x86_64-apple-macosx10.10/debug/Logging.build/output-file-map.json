@@ -1,0 +1,29 @@
+{
+  "": {
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Logging.build/master.swiftdeps"
+  },
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/console.git-8669534691655913401/Sources/Logging/Exports.swift": {
+    "dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Logging.build/Exports.d",
+    "object": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Logging.build/Exports.swift.o",
+    "swiftmodule": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Logging.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Logging.build/Exports.swiftdeps"
+  },
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/console.git-8669534691655913401/Sources/Logging/LogLevel.swift": {
+    "dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Logging.build/LogLevel.d",
+    "object": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Logging.build/LogLevel.swift.o",
+    "swiftmodule": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Logging.build/LogLevel~partial.swiftmodule",
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Logging.build/LogLevel.swiftdeps"
+  },
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/console.git-8669534691655913401/Sources/Logging/Logger.swift": {
+    "dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Logging.build/Logger.d",
+    "object": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Logging.build/Logger.swift.o",
+    "swiftmodule": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Logging.build/Logger~partial.swiftmodule",
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Logging.build/Logger.swiftdeps"
+  },
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/console.git-8669534691655913401/Sources/Logging/PrintLogger.swift": {
+    "dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Logging.build/PrintLogger.d",
+    "object": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Logging.build/PrintLogger.swift.o",
+    "swiftmodule": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Logging.build/PrintLogger~partial.swiftmodule",
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Logging.build/PrintLogger.swiftdeps"
+  }
+}

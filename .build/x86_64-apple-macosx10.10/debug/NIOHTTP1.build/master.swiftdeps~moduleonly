@@ -1,0 +1,12 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "150d527d3d8d9b4337489886ba250fe7"
+build_time: [1548070225, 287382000]
+inputs:
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/swift-nio.git-6105345694714423636/Sources/NIOHTTP1/HTTPDecoder.swift": [1548070190, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/swift-nio.git-6105345694714423636/Sources/NIOHTTP1/HTTPEncoder.swift": [1548070190, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/swift-nio.git-6105345694714423636/Sources/NIOHTTP1/HTTPPipelineSetup.swift": [1548070190, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/swift-nio.git-6105345694714423636/Sources/NIOHTTP1/HTTPResponseCompressor.swift": [1548070190, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/swift-nio.git-6105345694714423636/Sources/NIOHTTP1/HTTPServerPipelineHandler.swift": [1548070190, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/swift-nio.git-6105345694714423636/Sources/NIOHTTP1/HTTPServerProtocolErrorHandler.swift": [1548070190, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/swift-nio.git-6105345694714423636/Sources/NIOHTTP1/HTTPTypes.swift": [1548070190, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/swift-nio.git-6105345694714423636/Sources/NIOHTTP1/HTTPUpgradeHandler.swift": [1548070190, 0]

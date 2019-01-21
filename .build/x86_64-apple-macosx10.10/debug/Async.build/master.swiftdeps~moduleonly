@@ -1,0 +1,19 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "5ee0db24f3226b44c0f26d667850e2d9"
+build_time: [1548070225, 290524000]
+inputs:
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/core.git--2280532085018929318/Sources/Async/Async+NIO.swift": [1548070189, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/core.git--2280532085018929318/Sources/Async/AsyncError.swift": [1548070189, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/core.git--2280532085018929318/Sources/Async/Collection+Future.swift": [1548070189, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/core.git--2280532085018929318/Sources/Async/Deprecated.swift": [1548070189, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/core.git--2280532085018929318/Sources/Async/Exports.swift": [1548070189, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/core.git--2280532085018929318/Sources/Async/Future+DoCatch.swift": [1548070189, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/core.git--2280532085018929318/Sources/Async/Future+Flatten.swift": [1548070189, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/core.git--2280532085018929318/Sources/Async/Future+Global.swift": [1548070189, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/core.git--2280532085018929318/Sources/Async/Future+Map.swift": [1548070189, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/core.git--2280532085018929318/Sources/Async/Future+Transform.swift": [1548070190, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/core.git--2280532085018929318/Sources/Async/Future+Variadic.swift": [1548070190, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/core.git--2280532085018929318/Sources/Async/Future+Void.swift": [1548070189, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/core.git--2280532085018929318/Sources/Async/FutureType.swift": [1548070189, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/core.git--2280532085018929318/Sources/Async/QueueHandler.swift": [1548070189, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/core.git--2280532085018929318/Sources/Async/Worker.swift": [1548070189, 0]

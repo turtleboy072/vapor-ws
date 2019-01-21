@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "a0c96a4e5373bc4e0687650ae00f3143"
+build_time: [1548070235, 844840000]
+inputs:
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/console.git-8669534691655913401/Sources/Logging/Exports.swift": [1548070196, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/console.git-8669534691655913401/Sources/Logging/LogLevel.swift": [1548070196, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/console.git-8669534691655913401/Sources/Logging/Logger.swift": [1548070196, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/console.git-8669534691655913401/Sources/Logging/PrintLogger.swift": [1548070196, 0]

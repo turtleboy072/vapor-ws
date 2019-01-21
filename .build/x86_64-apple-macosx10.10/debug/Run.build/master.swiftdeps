@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "46f9a3e134181362e9e5697d941798ae"
+build_time: [1548070255, 726752000]
+inputs:
+  "/Users/jimallan/Downloads/starter/location-track-server/Sources/Run/main.swift": [1533305591, 0]

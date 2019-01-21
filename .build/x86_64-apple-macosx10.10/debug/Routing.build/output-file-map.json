@@ -1,0 +1,77 @@
+{
+  "": {
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Routing.build/master.swiftdeps"
+  },
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/routing.git--470023089581033755/Sources/Routing/Parameter/Parameter.swift": {
+    "dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Routing.build/Parameter.d",
+    "object": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Routing.build/Parameter/Parameter.swift.o",
+    "swiftmodule": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Routing.build/Parameter~partial.swiftmodule",
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Routing.build/Parameter.swiftdeps"
+  },
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/routing.git--470023089581033755/Sources/Routing/Parameter/ParameterValue.swift": {
+    "dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Routing.build/ParameterValue.d",
+    "object": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Routing.build/Parameter/ParameterValue.swift.o",
+    "swiftmodule": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Routing.build/ParameterValue~partial.swiftmodule",
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Routing.build/ParameterValue.swiftdeps"
+  },
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/routing.git--470023089581033755/Sources/Routing/Parameter/Parameters.swift": {
+    "dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Routing.build/Parameters.d",
+    "object": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Routing.build/Parameter/Parameters.swift.o",
+    "swiftmodule": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Routing.build/Parameters~partial.swiftmodule",
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Routing.build/Parameters.swiftdeps"
+  },
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/routing.git--470023089581033755/Sources/Routing/Register/PathComponent.swift": {
+    "dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Routing.build/PathComponent.d",
+    "object": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Routing.build/Register/PathComponent.swift.o",
+    "swiftmodule": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Routing.build/PathComponent~partial.swiftmodule",
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Routing.build/PathComponent.swiftdeps"
+  },
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/routing.git--470023089581033755/Sources/Routing/Register/Route.swift": {
+    "dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Routing.build/Route.d",
+    "object": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Routing.build/Register/Route.swift.o",
+    "swiftmodule": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Routing.build/Route~partial.swiftmodule",
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Routing.build/Route.swiftdeps"
+  },
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/routing.git--470023089581033755/Sources/Routing/Register/RouterOption.swift": {
+    "dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Routing.build/RouterOption.d",
+    "object": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Routing.build/Register/RouterOption.swift.o",
+    "swiftmodule": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Routing.build/RouterOption~partial.swiftmodule",
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Routing.build/RouterOption.swiftdeps"
+  },
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/routing.git--470023089581033755/Sources/Routing/Routing/RoutableComponent.swift": {
+    "dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Routing.build/RoutableComponent.d",
+    "object": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Routing.build/Routing/RoutableComponent.swift.o",
+    "swiftmodule": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Routing.build/RoutableComponent~partial.swiftmodule",
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Routing.build/RoutableComponent.swiftdeps"
+  },
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/routing.git--470023089581033755/Sources/Routing/Routing/RouterNode.swift": {
+    "dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Routing.build/RouterNode.d",
+    "object": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Routing.build/Routing/RouterNode.swift.o",
+    "swiftmodule": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Routing.build/RouterNode~partial.swiftmodule",
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Routing.build/RouterNode.swiftdeps"
+  },
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/routing.git--470023089581033755/Sources/Routing/Routing/TrieRouter.swift": {
+    "dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Routing.build/TrieRouter.d",
+    "object": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Routing.build/Routing/TrieRouter.swift.o",
+    "swiftmodule": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Routing.build/TrieRouter~partial.swiftmodule",
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Routing.build/TrieRouter.swiftdeps"
+  },
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/routing.git--470023089581033755/Sources/Routing/Utilities/Deprecated.swift": {
+    "dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Routing.build/Deprecated.d",
+    "object": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Routing.build/Utilities/Deprecated.swift.o",
+    "swiftmodule": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Routing.build/Deprecated~partial.swiftmodule",
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Routing.build/Deprecated.swiftdeps"
+  },
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/routing.git--470023089581033755/Sources/Routing/Utilities/Exports.swift": {
+    "dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Routing.build/Exports.d",
+    "object": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Routing.build/Utilities/Exports.swift.o",
+    "swiftmodule": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Routing.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Routing.build/Exports.swiftdeps"
+  },
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/routing.git--470023089581033755/Sources/Routing/Utilities/RoutingError.swift": {
+    "dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Routing.build/RoutingError.d",
+    "object": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Routing.build/Utilities/RoutingError.swift.o",
+    "swiftmodule": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Routing.build/RoutingError~partial.swiftmodule",
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/Routing.build/RoutingError.swiftdeps"
+  }
+}

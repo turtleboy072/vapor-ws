@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "98d1612418d34ec811791a09c7e9d27e"
+build_time: [1548070206, 898394000]
+inputs:
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/swift-nio.git-6105345694714423636/Sources/NIOPriorityQueue/Heap.swift": [1548070190, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/swift-nio.git-6105345694714423636/Sources/NIOPriorityQueue/PriorityQueue.swift": [1548070190, 0]

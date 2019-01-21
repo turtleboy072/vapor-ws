@@ -1,0 +1,53 @@
+{
+  "": {
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/URLEncodedForm.build/master.swiftdeps"
+  },
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/url-encoded-form.git--9204612849217196901/Sources/URLEncodedForm/Codable/URLEncodedFormDecoder.swift": {
+    "dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/URLEncodedForm.build/URLEncodedFormDecoder.d",
+    "object": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/URLEncodedForm.build/Codable/URLEncodedFormDecoder.swift.o",
+    "swiftmodule": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/URLEncodedForm.build/URLEncodedFormDecoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/URLEncodedForm.build/URLEncodedFormDecoder.swiftdeps"
+  },
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/url-encoded-form.git--9204612849217196901/Sources/URLEncodedForm/Codable/URLEncodedFormEncoder.swift": {
+    "dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/URLEncodedForm.build/URLEncodedFormEncoder.d",
+    "object": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/URLEncodedForm.build/Codable/URLEncodedFormEncoder.swift.o",
+    "swiftmodule": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/URLEncodedForm.build/URLEncodedFormEncoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/URLEncodedForm.build/URLEncodedFormEncoder.swiftdeps"
+  },
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/url-encoded-form.git--9204612849217196901/Sources/URLEncodedForm/Data/URLEncodedFormData.swift": {
+    "dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/URLEncodedForm.build/URLEncodedFormData.d",
+    "object": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/URLEncodedForm.build/Data/URLEncodedFormData.swift.o",
+    "swiftmodule": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/URLEncodedForm.build/URLEncodedFormData~partial.swiftmodule",
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/URLEncodedForm.build/URLEncodedFormData.swiftdeps"
+  },
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/url-encoded-form.git--9204612849217196901/Sources/URLEncodedForm/Data/URLEncodedFormDataConvertible.swift": {
+    "dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/URLEncodedForm.build/URLEncodedFormDataConvertible.d",
+    "object": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/URLEncodedForm.build/Data/URLEncodedFormDataConvertible.swift.o",
+    "swiftmodule": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/URLEncodedForm.build/URLEncodedFormDataConvertible~partial.swiftmodule",
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/URLEncodedForm.build/URLEncodedFormDataConvertible.swiftdeps"
+  },
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/url-encoded-form.git--9204612849217196901/Sources/URLEncodedForm/Data/URLEncodedFormParser.swift": {
+    "dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/URLEncodedForm.build/URLEncodedFormParser.d",
+    "object": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/URLEncodedForm.build/Data/URLEncodedFormParser.swift.o",
+    "swiftmodule": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/URLEncodedForm.build/URLEncodedFormParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/URLEncodedForm.build/URLEncodedFormParser.swiftdeps"
+  },
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/url-encoded-form.git--9204612849217196901/Sources/URLEncodedForm/Data/URLEncodedFormSerializer.swift": {
+    "dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/URLEncodedForm.build/URLEncodedFormSerializer.d",
+    "object": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/URLEncodedForm.build/Data/URLEncodedFormSerializer.swift.o",
+    "swiftmodule": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/URLEncodedForm.build/URLEncodedFormSerializer~partial.swiftmodule",
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/URLEncodedForm.build/URLEncodedFormSerializer.swiftdeps"
+  },
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/url-encoded-form.git--9204612849217196901/Sources/URLEncodedForm/Utilities/Exports.swift": {
+    "dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/URLEncodedForm.build/Exports.d",
+    "object": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/URLEncodedForm.build/Utilities/Exports.swift.o",
+    "swiftmodule": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/URLEncodedForm.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/URLEncodedForm.build/Exports.swiftdeps"
+  },
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/url-encoded-form.git--9204612849217196901/Sources/URLEncodedForm/Utilities/URLEncodedFormError.swift": {
+    "dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/URLEncodedForm.build/URLEncodedFormError.d",
+    "object": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/URLEncodedForm.build/Utilities/URLEncodedFormError.swift.o",
+    "swiftmodule": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/URLEncodedForm.build/URLEncodedFormError~partial.swiftmodule",
+    "swift-dependencies": "/Users/jimallan/Downloads/starter/location-track-server/.build/x86_64-apple-macosx10.10/debug/URLEncodedForm.build/URLEncodedFormError.swiftdeps"
+  }
+}

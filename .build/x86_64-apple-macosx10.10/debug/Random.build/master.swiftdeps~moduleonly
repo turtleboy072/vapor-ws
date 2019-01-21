@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "9cf0a3d3b9bc965600a5eac677d4ba4a"
+build_time: [1548070228, 32701000]
+inputs:
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/crypto.git-4610214515876742430/Sources/Random/Array+Random.swift": [1548070191, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/crypto.git-4610214515876742430/Sources/Random/OSRandom.swift": [1548070191, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/crypto.git-4610214515876742430/Sources/Random/RandomProtocol.swift": [1548070191, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/crypto.git-4610214515876742430/Sources/Random/URandom.swift": [1548070191, 0]

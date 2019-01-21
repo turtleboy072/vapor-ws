@@ -1,0 +1,20 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "6ce9f08e4765404a9c1d991519c18608"
+build_time: [1548070235, 845814000]
+inputs:
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/validation.git--7839861556715010764/Sources/Validation/Exports.swift": [1548070195, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/validation.git--7839861556715010764/Sources/Validation/Validatable.swift": [1548070195, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/validation.git--7839861556715010764/Sources/Validation/ValidationError.swift": [1548070195, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/validation.git--7839861556715010764/Sources/Validation/Validations.swift": [1548070195, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/validation.git--7839861556715010764/Sources/Validation/Validator.swift": [1548070195, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/validation.git--7839861556715010764/Sources/Validation/ValidatorType.swift": [1548070195, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/validation.git--7839861556715010764/Sources/Validation/Validators/AndValidator.swift": [1548070195, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/validation.git--7839861556715010764/Sources/Validation/Validators/CharacterSetValidator.swift": [1548070195, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/validation.git--7839861556715010764/Sources/Validation/Validators/CountValidator.swift": [1548070195, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/validation.git--7839861556715010764/Sources/Validation/Validators/EmailValidator.swift": [1548070195, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/validation.git--7839861556715010764/Sources/Validation/Validators/InValidator.swift": [1548070195, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/validation.git--7839861556715010764/Sources/Validation/Validators/NilIgnoringValidator.swift": [1548070195, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/validation.git--7839861556715010764/Sources/Validation/Validators/NilValidator.swift": [1548070195, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/validation.git--7839861556715010764/Sources/Validation/Validators/NotValidator.swift": [1548070195, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/validation.git--7839861556715010764/Sources/Validation/Validators/OrValidator.swift": [1548070195, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/validation.git--7839861556715010764/Sources/Validation/Validators/RangeValidator.swift": [1548070195, 0]

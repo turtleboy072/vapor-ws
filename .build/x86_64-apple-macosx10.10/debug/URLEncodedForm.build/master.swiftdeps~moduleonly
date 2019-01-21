@@ -1,0 +1,12 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "c4f2d56654cdb41c525bbe1591275b22"
+build_time: [1548070235, 847093000]
+inputs:
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/url-encoded-form.git--9204612849217196901/Sources/URLEncodedForm/Codable/URLEncodedFormDecoder.swift": [1548070194, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/url-encoded-form.git--9204612849217196901/Sources/URLEncodedForm/Codable/URLEncodedFormEncoder.swift": [1548070194, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/url-encoded-form.git--9204612849217196901/Sources/URLEncodedForm/Data/URLEncodedFormData.swift": [1548070194, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/url-encoded-form.git--9204612849217196901/Sources/URLEncodedForm/Data/URLEncodedFormDataConvertible.swift": [1548070194, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/url-encoded-form.git--9204612849217196901/Sources/URLEncodedForm/Data/URLEncodedFormParser.swift": [1548070194, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/url-encoded-form.git--9204612849217196901/Sources/URLEncodedForm/Data/URLEncodedFormSerializer.swift": [1548070194, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/url-encoded-form.git--9204612849217196901/Sources/URLEncodedForm/Utilities/Exports.swift": [1548070194, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/url-encoded-form.git--9204612849217196901/Sources/URLEncodedForm/Utilities/URLEncodedFormError.swift": [1548070194, 0]

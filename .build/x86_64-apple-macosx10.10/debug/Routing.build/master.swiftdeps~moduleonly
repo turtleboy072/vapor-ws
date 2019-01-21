@@ -1,0 +1,16 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "e8e521c82a79824c704818429351bfcb"
+build_time: [1548070241, 313711000]
+inputs:
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/routing.git--470023089581033755/Sources/Routing/Parameter/Parameter.swift": [1548070189, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/routing.git--470023089581033755/Sources/Routing/Parameter/ParameterValue.swift": [1548070189, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/routing.git--470023089581033755/Sources/Routing/Parameter/Parameters.swift": [1548070189, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/routing.git--470023089581033755/Sources/Routing/Register/PathComponent.swift": [1548070189, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/routing.git--470023089581033755/Sources/Routing/Register/Route.swift": [1548070189, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/routing.git--470023089581033755/Sources/Routing/Register/RouterOption.swift": [1548070189, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/routing.git--470023089581033755/Sources/Routing/Routing/RoutableComponent.swift": [1548070189, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/routing.git--470023089581033755/Sources/Routing/Routing/RouterNode.swift": [1548070189, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/routing.git--470023089581033755/Sources/Routing/Routing/TrieRouter.swift": [1548070189, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/routing.git--470023089581033755/Sources/Routing/Utilities/Deprecated.swift": [1548070189, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/routing.git--470023089581033755/Sources/Routing/Utilities/Exports.swift": [1548070189, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/routing.git--470023089581033755/Sources/Routing/Utilities/RoutingError.swift": [1548070189, 0]

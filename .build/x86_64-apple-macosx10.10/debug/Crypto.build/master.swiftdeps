@@ -1,0 +1,17 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "abde53739e38c854585ddb65d4377cb6"
+build_time: [1548070235, 850285000]
+inputs:
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/crypto.git-4610214515876742430/Sources/Crypto/BCrypt/BCryptDigest.swift": [1548070191, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/crypto.git-4610214515876742430/Sources/Crypto/Cipher/Cipher.swift": [1548070192, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/crypto.git-4610214515876742430/Sources/Crypto/Cipher/CipherAlgorithm.swift": [1548070192, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/crypto.git-4610214515876742430/Sources/Crypto/Digest/Digest.swift": [1548070192, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/crypto.git-4610214515876742430/Sources/Crypto/Digest/DigestAlgorithm.swift": [1548070192, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/crypto.git-4610214515876742430/Sources/Crypto/MAC/HMAC.swift": [1548070192, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/crypto.git-4610214515876742430/Sources/Crypto/RSA/RSA.swift": [1548070192, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/crypto.git-4610214515876742430/Sources/Crypto/RSA/RSAKey.swift": [1548070192, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/crypto.git-4610214515876742430/Sources/Crypto/RSA/RSAPadding.swift": [1548070192, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/crypto.git-4610214515876742430/Sources/Crypto/Random/CryptoRandom.swift": [1548070192, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/crypto.git-4610214515876742430/Sources/Crypto/Utilities/CryptoError.swift": [1548070192, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/crypto.git-4610214515876742430/Sources/Crypto/Utilities/Deprecated.swift": [1548070192, 0]
+  "/Users/jimallan/Downloads/starter/location-track-server/.build/checkouts/crypto.git-4610214515876742430/Sources/Crypto/Utilities/Exports.swift": [1548070191, 0]
